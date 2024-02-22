@@ -23,7 +23,7 @@ repository also requires installation of opensim matlab sripting libraries, whic
 following instructions: https://simtk-confluence.stanford.edu:8443/display/OpenSim/Scripting+with+Matlab
 
 Please see the attached License.txt file for rules on use and redistribution 
-(Copyright (c) 2022 Owen Douglas Pearl via MIT License)
+(Copyright (c) 2024 Owen Douglas Pearl via MIT License)
 
 When using this work, we ask that you please cite the relevant literature to properly credit the authors:
 Pearl, O., Rokhmanova, N., Dankovich, L., Faille, S., Bergbreiter, S., & Halilaj, E. (2022). 
