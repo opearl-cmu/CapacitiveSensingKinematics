@@ -63,6 +63,5 @@ Thumbs.db
 # Git Patch Files #
 *.patch
 
-# MP4s and Figs
-.fig
+# MP4s
 .mp4
